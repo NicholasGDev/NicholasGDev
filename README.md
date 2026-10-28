@@ -18,7 +18,7 @@ I seek challenges that combine building robust systems with creating exceptional
 
 ### Back-End
 
-Proficient in PHP with Laravel and CodeIgniter, C/C++, Java with Spring Boot and JavaFX, Python, and Node.js for building high-performance APIs and business logic. Additional development experience with Django and Flask.
+Proficient in PHP with Laravel and CodeIgniter, C/C++, Rust, Python, and Node.js for building high-performance APIs and business logic. Additional development experience with Django and Flask.
 
 ### Front-End
 
